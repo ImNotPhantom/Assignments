@@ -6,12 +6,14 @@
 
 ### Note: i=0,1.., X-1; j=0,1.., Y-1.
 
-### Example:
-#### Suppose the following inputs are given to the program:
+## Example:
+
+### Input:
 #### 3,5
-#### Then, the output of the program should be:
+
+### Output:
 #### [[0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8]]
 
-### Hints: N/A
+## Hints: N/A
 
-### Note: In case of input data being supplied to the question, it should be assumed to be a console input in a comma-separated form.
+## Note: In case of input data being supplied to the question, it should be assumed to be a console input in a comma-separated form.
