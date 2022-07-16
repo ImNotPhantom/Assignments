@@ -1,9 +1,12 @@
+from sys import exit
+
 x, y = input("Enter X and Y (x, y): ").replace(" ", "").split(',')
 
 try:
     x, y = int(x), int(y)
 except Exception:
     print("Please enter in numbers!")
+    exit()
 
 matrix = []
 
